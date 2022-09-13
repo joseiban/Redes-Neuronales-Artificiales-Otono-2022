@@ -1,7 +1,7 @@
 import mnist_loader
 import red_neuronal_basica_1 # CAMBIÉ EL NOMBRE DEL ARCHIVO NETWORK
 import pickle
-
+# COMENTARIO INSERTADO PARA ACTUALIZAR LA DESCRIPCIÓN DEL ARCHIVO EN GITHUB
 training_data, validation_data , test_data = mnist_loader.load_data_wrapper()
 
 training_data = list(training_data)
