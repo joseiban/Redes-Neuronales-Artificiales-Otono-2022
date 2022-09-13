@@ -1,4 +1,5 @@
 # %load mnist_loader.py
+# COMENTARIO INSERTADO PARA ACTUALIZAR LA DESCRIPCIÓN DEL ARCHIVO EN GITHUB
 """
 mnist_loader
 ~~~~~~~~~~~~
